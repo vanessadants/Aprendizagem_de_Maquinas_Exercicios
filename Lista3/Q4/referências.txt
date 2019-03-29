@@ -1,0 +1,3 @@
+http://slideplayer.com.br/slide/50999/
+
+https://www.mathworks.com/help/nnet/ug/cluster-with-a-competitive-neural-network.html
